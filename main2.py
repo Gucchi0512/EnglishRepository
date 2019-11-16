@@ -39,7 +39,7 @@ if __name__ == "__main__":
     with open(path) as f:
         text = f.read()
     #text  = "I was a man."
-    text = re.split('[.,]', text)
+    text = re.split('[.,!?]', text)
     text.pop(-1)
     for i, x in enumerate(text):
         label = ""
