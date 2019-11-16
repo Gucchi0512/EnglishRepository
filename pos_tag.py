@@ -10,6 +10,4 @@ def pos_tag(sentence):
     print(pos)
     return(pos)
 
-def
-
 test()
