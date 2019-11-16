@@ -4,7 +4,7 @@ import nltk
 from ClassifyPerfect import perfect_classify
 from be_verb import CheckBeSentence
 
-def pos_tag(sentence = "I have been waiting for him since last night."):
+def pos_tag(sentence):
     t = nltk.word_tokenize(sentence)
     pos = nltk.pos_tag(t)
     #print(pos)

@@ -1,1 +1,24 @@
-I swim.I walked.I will run.I am jogging.I was singing.I will be waiting.I have slept.I had played.I will have talked with a friend.I have been training for the marathon.I had been taking a lecture.I will have been jumping.The door is opened by me.The picture was given by her.The mountain will be seen.The computer is being used by me.The computer was being made by him.I will be being spoken.My name has been called.Breakfast had been prepared by my mother.The cake will have been cut.The dishes have been being washed.The book had been being read.The house will have been being broken by him.
+I swim.
+I walked.
+I will run.
+I am jogging.
+I was singing.
+I will be waiting.
+I have slept.
+I had played.
+I will have talked with a friend.
+I have been training for the marathon.
+I had been taking a lecture.
+I will have been jumping.
+The door is opened by me.
+The picture was given by her.
+The mountain will be seen.
+The computer is being used by me.
+The computer was being made by him.
+I will be being spoken.
+My name has been called.
+Breakfast had been prepared by my mother.
+The cake will have been cut.
+The dishes have been being washed.
+The book had been being read.
+The house will have been being broken by him.

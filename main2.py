@@ -5,7 +5,7 @@ from ClassifyPerfect import perfect_classify
 from be_verb import CheckBeSentence
 
 
-def pos_tag(sentence = "I have been waiting for him since last night."):
+def pos_tag(sentence):
     t = nltk.word_tokenize(sentence)
     pos = nltk.pos_tag(t)
     #print(pos)
@@ -39,11 +39,11 @@ if __name__ == "__main__":
     with open(path) as f:
         text = f.read()
     #text  = "I was a man."
-    text = text.split(".")
+    text = text.split("\n")
     text.pop(-1)
     for i, x in enumerate(text):
         label = ""
-        text[i] = x + "."
+        text[i] = x
         pos = pos_tag(text[i])
         start_i = get_verb_index(pos)
         if is_Have(pos[start_i][0]):
