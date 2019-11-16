@@ -1,6 +1,6 @@
 import nltk
 
-def CheckBeCentence(pos, index):
+def CheckBeSentence(pos, index):
     count=0
     label=''
     for data in pos:
@@ -11,13 +11,13 @@ def CheckBeCentence(pos, index):
         if tag == 'RB':
             label+='Negative'
         elif tag == 'VBG':
-            label+='Progressive'
+            label+='Cont'
             break
         elif tag == 'VBN':
-            label+=('Passive'+CheckBeCentence(pos, count))
+            label+=(CheckBeSentence(pos, count))
             break
         elif tag[0]!='V':
-            label+='Simple'
+            label+='Simp'
             break
     return label
             

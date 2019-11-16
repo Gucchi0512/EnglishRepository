@@ -1,3 +1,5 @@
+from be_verb import CheckBeSentence
+
 def perfect_classify(t):
     f_flag = ''
     s = ''
@@ -10,8 +12,8 @@ def perfect_classify(t):
                     break
                 else : break
             else : flag = 0
-        elif(pos[0]=='will'):
-            f_flag='Futu'
+        #elif(pos[0]=='will'):
+         #   f_flag='Futu'
         elif pos[0]=='have' :
             flag = 1
         elif pos[0]=='has' :
@@ -23,7 +25,7 @@ def perfect_classify(t):
 def attach_label(f,s,f_flag):
     if f == 0:
         return 'None'
-    elif f == 3:
-        return f_flag+'PerfectPast' + s
+    #elif f == 3:
+     #   return f_flag+'PerfectPast' + s
     else :
-        return f_flag+'Perfect' + s
+        return f_flag+'Perf' + s

@@ -1,4 +1,5 @@
 import nltk
+
 def test():
     sentence = "I have been waiting for him since last night."
     #sentence = input()
