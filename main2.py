@@ -39,11 +39,11 @@ if __name__ == "__main__":
     with open(path) as f:
         text = f.read()
     #text  = "I was a man."
-    text = text.split("\n")
+    text = text.split(".")
     text.pop(-1)
     for i, x in enumerate(text):
         label = ""
-        text[i] = x
+        text[i] = x + "."
         pos = pos_tag(text[i])
         start_i = get_verb_index(pos)
         if is_Have(pos[start_i][0]):
