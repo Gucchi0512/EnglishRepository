@@ -1,27 +1,26 @@
-I swim.
-I walked.
-I will run.
-I am jogging.
-I was singing.
-I will be waiting.
-I have slept.
-I had played.
-I will have talked with a friend.
-I have been training for the marathon.
-I had been taking a lecture.
-I will have been jumping.
-The door is opened by me.
-The picture was given by her.
-The mountain will be seen.
-The computer is being used by me.
-The computer was being made by him.
-I will be being spoken.
-My name has been called.
-Breakfast had been prepared by my mother.
-The cake will have been cut.
-The dishes have been being washed.
-The book had been being read.
-The house will have been being broken by him.
-If I bought the video game, you can play it now.
-You are crazy!
-I have a pen?
+I agree. <PresSimp>
+I disagreed. <PastSimp>
+I will sing. <FutuSimp>
+I am jumping. <PresCont>
+I was frying. <PastCont>
+I will be exiting. <FutuCont>
+I have satdown. <PresPerf>
+I had stood up. <PastPerf>
+I will have arrived. <FutuPerf>
+I have been waiting. <PresPerfCont>
+I had been crying. <PastPerfCont>
+I will have been fighting. <FutuPerfCont>
+A food is eaten. <PresSimp>
+A food was had. <PastSimp>
+A food will be taken. <FutuSimp>
+A box is being carried. <PresCont>
+A box was　being sent. <PastCont>
+A box will be being transported. <FutuCont>
+A machine has been broken. <PresPerf>
+A machine had been used. <PastPerf>
+A machine will have been fixed. <FutuPerf>
+A book have been being read. <PresPerfCont>
+A book had been being printed. <PastPerfCont>
+The piano will have been being played. <FutuPerfCont>
+I work at an IT company in New York.<PresSimp>
+She is highly praised. <PresSimp>

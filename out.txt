@@ -1,0 +1,51 @@
+I agree.[Pres]
+ <PresSimp>
+I disagreed.[Pres]
+ <PastSimp>
+I will sing.[Futu]
+ <FutuSimp>
+I am jumping.[PresCont]
+ <PresCont>
+I was frying.[PastCont]
+ <PastCont>
+I will be exiting.[FutuCont]
+ <FutuCont>
+I have satdown.[PresPerf]
+ <PresPerf>
+I had stood up.[PastPerf]
+ <PastPerf>
+I will have arrived.[FutuPerf]
+ <FutuPerf>
+I have been waiting.[PresPerfCont]
+ <PresPerfCont>
+I had been crying.[PastPerfCont]
+ <PastPerfCont>
+I will have been fighting.[FutuPerfCont]
+ <FutuPerfCont>
+A food is eaten.[Past]
+ <PresSimp>
+A food was had.[Past]
+ <PastSimp>
+A food will be taken.[Past]
+ <FutuSimp>
+A box is being carried.[Pres]
+ <PresCont>
+A box was　being sent.[Pres]
+ <PastCont>
+A box will be being transported.[Pres]
+ <FutuCont>
+A machine has been broken.[Pres]
+ <PresPerf>
+A machine had been used.[Pres]
+ <PastPerf>
+A machine will have been fixed.[Pres]
+ <FutuPerf>
+A book have been being read.[Past]
+ <PresPerfCont>
+A book had been being printed.[Past]
+ <PastPerfCont>
+The piano will have been being played.[Past]
+ <FutuPerfCont>
+I work at an IT company in New York.[Pres]
+<PresSimp>
+She is highly praised.[PresSimp]

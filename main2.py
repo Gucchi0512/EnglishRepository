@@ -35,9 +35,10 @@ def addLabel(label):
 
 
 if __name__ == "__main__":
-    path = 'in.txt'
-    with open(path) as f:
-        text = f.read()
+    path_r = 'in.txt'
+    with open(path_r, mode='r') as fin:
+        text = fin.read()
+    path_w = 'out.txt'
     #text  = "I was a man."
     text = re.split('[.!?]', text)
     text.pop(-1)
@@ -52,5 +53,6 @@ if __name__ == "__main__":
             label = CheckBeSentence(pos, start_i)
         label = check_Tense(pos,label,start_i)
         text[i] += addLabel(label)
-        print(text[i])
-
+        #print(text[i])
+    with open(path_w, mode='w') as fout:
+        fout.write('\n'.join(text))

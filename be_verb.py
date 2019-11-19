@@ -8,7 +8,7 @@ def CheckBeSentence(pos, index):
         tag = data[1]
         if count-1<index:
             continue
-        if tag == 'RB':
+        if tag[1] == 'not':
             label+='Negative'
         elif tag == 'VBG':
             label+='Cont'
