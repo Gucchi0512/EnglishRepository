@@ -5,7 +5,7 @@
 - Execute program in terminal by use command "python main.py"
 ## Multiple Line Sentence(Use Main2.py)
 - Open "in.txt" and write your sentences.
-- Please separate sentence and sentence by line feed.
+- Sentences are separated by '.' ',' '?' '!'
 - Execute program in terminal by use command "python main2.py"
 ## Output Format
 >"*Input sentence*" [FunctionalPattern]
