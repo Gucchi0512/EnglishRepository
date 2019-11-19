@@ -1,26 +1,26 @@
-I agree. <PresSimp>
-I disagreed. <PastSimp>
-I will sing. <FutuSimp>
-I am jumping. <PresCont>
-I was frying. <PastCont>
-I will be exiting. <FutuCont>
-I have satdown. <PresPerf>
-I had stood up. <PastPerf>
-I will have arrived. <FutuPerf>
-I have been waiting. <PresPerfCont>
-I had been crying. <PastPerfCont>
-I will have been fighting. <FutuPerfCont>
-A food is eaten. <PresSimp>
-A food was had. <PastSimp>
-A food will be taken. <FutuSimp>
-A box is being carried. <PresCont>
-A box was　being sent. <PastCont>
-A box will be being transported. <FutuCont>
-A machine has been broken. <PresPerf>
-A machine had been used. <PastPerf>
-A machine will have been fixed. <FutuPerf>
-A book have been being read. <PresPerfCont>
-A book had been being printed. <PastPerfCont>
-The piano will have been being played. <FutuPerfCont>
-I work at an IT company in New York.<PresSimp>
-She is highly praised. <PresSimp>
+I agree. 
+I disagreed. 
+I will sing. 
+I am jumping. 
+I was frying. 
+I will be exiting. 
+I have satdown. 
+I had stood up. 
+I will have arrived. 
+I have been waiting. 
+I had been crying. 
+I will have been fighting. 
+A food is eaten. 
+A food was had. 
+A food will be taken. 
+A box is being carried. 
+A box was　being sent. 
+A box will be being transported. 
+A machine has been broken. 
+A machine had been used. 
+A machine will have been fixed. 
+A book have been being read. 
+A book had been being printed. 
+The piano will have been being played. 
+I work at an IT company in New York.
+She is highly praised. 

@@ -51,6 +51,8 @@ if __name__ == "__main__":
             label = perfect_classify(pos)  
         if is_Be(pos[start_i][0]):
             label = CheckBeSentence(pos, start_i)
+        else:
+            label = CheckBeSentence(pos, start_i)
         label = check_Tense(pos,label,start_i)
         text[i] += addLabel(label)
         #print(text[i])
