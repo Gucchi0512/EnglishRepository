@@ -40,7 +40,7 @@ if __name__ == "__main__":
         text = fin.read()
     path_w = 'out.txt'
     #text  = "I was a man."
-    text = re.split('[.!?]', text)
+    text = re.split('[.,!?]', text)
     text.pop(-1)
     for i, x in enumerate(text):
         label = ""
@@ -49,7 +49,7 @@ if __name__ == "__main__":
         start_i = get_verb_index(pos)
         if is_Have(pos[start_i][0]):
             label = perfect_classify(pos)  
-        if is_Be(pos[start_i][0]):
+        elif is_Be(pos[start_i][0]):
             label = CheckBeSentence(pos, start_i)
         else:
             label = CheckBeSentence(pos, start_i)

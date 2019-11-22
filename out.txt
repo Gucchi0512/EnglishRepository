@@ -1,4 +1,4 @@
-I agree.[PresSimp]
+I agreed.[PastSimp]
  
 I disagreed.[PresSimp]
  
@@ -10,17 +10,17 @@ I was frying.[PastCont]
  
 I will be exiting.[FutuCont]
  
-I have satdown.[PresSimp]
+I have satdown.[PresPerf]
  
-I had stood up.[PastSimp]
+I had stood up.[PastPerf]
  
-I will have arrived.[FutuSimp]
+I will have arrived.[FutuPerf]
  
-I have been waiting.[PresCont]
+I have been waiting.[PresPerfCont]
  
-I had been crying.[PastCont]
+I had been crying.[PastPerfCont]
  
-I will have been fighting.[FutuCont]
+I will have been fighting.[FutuPerfCont]
  
 A food is eaten.[PresSimp]
  
@@ -34,18 +34,21 @@ A box was　being sent.[PresCont]
  
 A box will be being transported.[FutuCont]
  
-A machine has been broken.[PresSimp]
+A machine has been broken.[PresPerfSimp]
  
-A machine had been used.[PastSimp]
+A machine had been used.[PastPerfSimp]
  
-A machine will have been fixed.[FutuSimp]
+A machine will have been fixed.[FutuPerfSimp]
  
-A book have been being read.[PresCont]
+A book have been being read.[PresPerfCont]
  
-A book had been being printed.[PastCont]
+A book had been being printed.[PastPerfCont]
  
-The piano will have been being played.[FutuCont]
+The piano will have been being played.[FutuPerfCont]
  
 I work at an IT company in New York.[PresSimp]
 
 She is highly praised.[PresSimp]
+ 
+When I arrived there.[PastSimp]
+ Bob had already left.[PastPerf]

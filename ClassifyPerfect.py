@@ -9,8 +9,9 @@ def perfect_classify(t):
             if pos[1] == 'VBN' :
                 if  pos[0] == 'been':
                     s = CheckBeSentence(t,i)
-                    break
-                else : break
+                break
+            elif pos[1]=='RB': 
+                continue
             else : flag = 0
         #elif(pos[0]=='will'):
          #   f_flag='Futu'
